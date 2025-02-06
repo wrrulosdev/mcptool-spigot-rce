@@ -1,4 +1,5 @@
 name: MCPToolSpigotRCE
 main: dev.wrrulos.mcptoolspigotrce.MCPToolSpigotRCE
 version: 1.0
-api-version: 1.8
+api-version: 1.13
+
